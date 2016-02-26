@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1ce74ccc-b9c2-4c3a-a70d-fe66d769cc0c" name="myBitnami" url="http://mybitnami">
+        <fileTransfer host="mybitnami" port="22" rootFolder="/opt/lappstack-5.6.18-1" accessType="SFTP" password="dff3dfc3dfcedfc3dfcbdfc5df9adf9b" username="syacko">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
