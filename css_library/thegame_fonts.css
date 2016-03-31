@@ -3,9 +3,14 @@
     font-size: 1em;
 }
 
-.UYBGFont_1emBold {
-    font-family: Orbitron;
-    font-size: 1em;
+.Font_Bold {
     font-weight: bold;
 }
 
+.LJustify {
+    text-align: left;
+}
+
+.RJustify {
+    text-align: right;
+}
