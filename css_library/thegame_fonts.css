@@ -1,16 +1,26 @@
 .UYBGFont_1em {
-    font-family: Orbitron;
+    font-family: Orbitron, "serif";
     font-size: 1em;
 }
 
-.Font_Bold {
+.UYBGFont_2em {
+    font-family: Orbitron, "serif";
+    font-size: 2em;
+}
+
+.UYBGFont_3em {
+    font-family: Orbitron, "serif";
+    font-size: 3em;
+}
+
+.UYBGFont_Bold {
     font-weight: bold;
 }
 
-.LJustify {
+.UYBGLJustify {
     text-align: left;
 }
 
-.RJustify {
+.UYBGRJustify {
     text-align: right;
 }
